@@ -1,0 +1,3 @@
+AWS_ACCESS_KEY = "AKIAWJI62QTTTL7ICLWB"
+AWS_SECRET_KEY = "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"
+CONTENT = "Hello, Welcome To My Webpage"
