@@ -1,0 +1,5 @@
+AWS_ACCESS_KEY = ""
+AWS_SECRET_KEY = ""
+AWS_REGION = "us-east-1" 
+USER = "ec2-user"
+INSTANCE_TYPE = "t2.micro"
